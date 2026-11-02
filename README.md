@@ -1,4 +1,4 @@
-## Tetris
+## Chuckytris
 
 A clean, modern implementation of the classic Tetris game, built entirely with vanilla HTML, CSS, and JavaScript.
 
